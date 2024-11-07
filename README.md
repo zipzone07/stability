@@ -9,3 +9,4 @@
 | [Анализ бурёнок](https://github.com/zipzone07/stability/tree/main/lin_model) | Заказчику нужно расширить поголовье скота и минимизировать риск получить не вкусное молоко | Яндекс.Практикум | *pandas, numpy, matplotlib, seaborn, sklearn* |
 | [Анализ данных сервиса аренды самокатов](https://github.com/zipzone07/stability/tree/main/stat_analiz) | Проанализировать данные и проверить некоторые гипотезы, которые могут помочь бизнесу вырасти | Яндекс.Практикум | *pandas, numpy, matplotlib, scipy, sklearn* |
 | [Тренды российского кинопроката](https://github.com/zipzone07/stability/tree/main/trend_film) | Нужно изучить рынок российского кинопроката и выявить текущие тренды | Яндекс.Практикум | *pandas, matplotlib, seaborn* |
+| [Исследование объявлений о продаже квартир](https://github.com/zipzone07/stability/tree/main/adv_apartments) | Определение рыночной стоимости объектов недвижимости | Яндекс.Практикум | *pandas, matplotlib, numpy, math* |
