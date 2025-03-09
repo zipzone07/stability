@@ -3,6 +3,7 @@
 
 | Название проекта | Описание | Ресурс | Используемые библиотеки | 
 | :----------------------: | :---------------------- | :----------------------: | :----------------------: |
+| [Продвинутый SQL](https://github.com/zipzone07/stability/tree/main/advanced_SQL) | Демонстрация навыков владения инструментом PostgreSQL на примере базы данных сервиса вопросов и ответов о программировании. | Яндекс.Практикум | *PostgreSQL* |
 | [Маркетинг](https://github.com/zipzone07/stability/tree/main/marketing) | В рамках проекта обработаем реальные сырые данне от одного из крупнейших маркетплейсов страны. | Яндекс.Практикум | *pandas, numpy, matplotlib, seaborn, flightgbm, sklearn, warnings, optuna, random, phik* |
 | [Оценка стоимости автомобиля](https://github.com/zipzone07/stability/tree/main/autos) | Сервис по продаже автомобилей с пробегом «Не бит, не крашен» разрабатывает приложение, для оценки рыночной стоимости своего автомобиля. | Яндекс.Практикум | *pandas, numpy, matplotlib, random, time, seaborn, scipy, stats, catboost, lightgbm, sklearn, warnings, imblearn, phik* |
 | [Стоимость жилья](https://github.com/zipzone07/stability/tree/main/housing_price) | Обучение модели линейной регрессии на данных о жилье в Калифорнии в 1990 году.  | Яндекс.Практикум | *pandas, numpy, pyspark* |
