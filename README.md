@@ -4,7 +4,7 @@
 | Название проекта | Описание | Ресурс | Используемые библиотеки |
 | :----------------------: | :---------------------- | :----------------------: | :----------------------: |
 | [Отток клиентов из компании ТелеДом](https://github.com/zipzone07/stability/blob/main/tele_house) | Необходимо понять, каким клиентам предлагать промокоды для стимулирования сотрудничества с компанией. | Яндекс.Практикум | *pandas, numpy, matplotlib, random, seaborn, sklearn, warnings, phik, time, optuna, shap* |
-| [Поиск по изображениям](https://github.com/zipzone07/stability/tree/main/images_find) | .... |
+| [Поиск по изображениям](https://github.com/zipzone07/stability/tree/main/images_find) | В фотохостинге для профессиональных фотографов «Со Смыслом» необходимо разработать модель поиска изображений | Яндекс.Практикум | *pandas, numpy, matplotlib, random, seaborn, sklearn, warnings, lightgbm, pathlib, tqdm, keras, scipy, functools* |
 | [Небо на ладони](https://github.com/zipzone07/stability/tree/main/star_observatory) | Придумать, как с помощью нейросети определять температуру на поверхности обнаруженных звёзд. | Яндекс.Практикум | *pandas, numpy, matplotlib, random, seaborn, sklearn, warnings,phik, math, torch* |
 | [Продвинутый SQL](https://github.com/zipzone07/stability/tree/main/advanced_SQL) | Демонстрация навыков владения инструментом PostgreSQL на примере базы данных сервиса вопросов и ответов о программировании. | Яндекс.Практикум | *PostgreSQL* |
 | [Маркетинг](https://github.com/zipzone07/stability/tree/main/marketing) | В рамках проекта обработаем реальные сырые данне от одного из крупнейших маркетплейсов страны. | Яндекс.Практикум | *pandas, numpy, matplotlib, seaborn, flightgbm, sklearn, warnings, optuna, random, phik* |
